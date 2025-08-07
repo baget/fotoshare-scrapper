@@ -174,7 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔄 Version History
 
-- **v1.0.0**: Initial release with basic scraping functionality
+- **v0.1.0**: Initial release with basic scraping functionality
 
 ## 📞 Support
 
