@@ -1,5 +1,5 @@
 [project]
-name = "get-photos"
+name = "fotoshare-scrapper"
 version = "0.1.0"
 description = "Get Photos - Fotoshare Image Scraper"
 readme = "README.md"
